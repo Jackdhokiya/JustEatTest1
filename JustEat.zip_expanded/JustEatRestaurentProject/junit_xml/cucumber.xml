@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="19.405223">
+    <testcase classname="Use the website to find restaurants for hungry customer in my area" name="search for restaurants in area" time="19.405223">
+        <system-out>
+            <![CDATA[Given I want food in "AR51 1AA".............................................passed
+When I search for restaurants...............................................passed
+Then I should see some restaurants in "AR51 1AA"............................passed
+Then Close the browser......................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
